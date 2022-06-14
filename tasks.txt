@@ -1,0 +1,3 @@
+Branch and merge strategy
+Tasks and Stories
+Deliverables and test
