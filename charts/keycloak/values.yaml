@@ -12,12 +12,12 @@ service:
   type: ClusterIP
   externalPort: 8080
   internalPort: 8080
-cmd: "echo test successfull"
+cmd: "echo test successfull"          
 env:
   KEYCLOAK_USER: "admin"
-  KEYCLOAK_PASSWORD: "admin"
   PROXY_ADDRESS_FORWARDING: "true"
   KEYCLOAK_IMPORT: "/tmp/realm.json"
+
 # KEYCLOAK_DEFAULT_THEME
 # KEYCLOAK_WELCOME_THEME
 #  ES_URL: "https://nxtgen-dev.es.westeurope.azure.elastic-cloud.com:9243/"
