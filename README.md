@@ -1,3 +1,7 @@
+PLEASE NOTE THAT THIS REPO IS NO LONGER MAINTAINED. THE VERSION BEING MAINTAINED IS https://github.com/aureliusenterprise/Aurelius-Atlas-helm-chart
+
+
+
 Getting started
 ===============
 Welcome to the Aurelius Atlas solution powered by Apache Atlas! Aurelius Atlas is an open-source Data Governance solution, based on a selection of open-source tools to facilitate business users to access governance information in an easy consumable way and meet the data governance demands of the distributed data world.
